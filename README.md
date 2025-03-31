@@ -75,4 +75,6 @@ Developed with ❤️ by Null Pointers
 
 e location for a free token or pay online to secure a token in advance.
 
+## Preview of Frontend
+
 ![image alt ](https://github.com/Rajdwip-69/Universal-Digital-Queue-System/blob/400753ab22b21e3e59b29248066684aef00e3e44/pic2.jpeg)
