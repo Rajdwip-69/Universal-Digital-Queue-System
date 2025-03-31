@@ -47,6 +47,11 @@ The **Universal Digital Queue System** is a web-based platform that allows users
 
 ## 📷 Screenshots
 
+## Preview of Dashboard.
+
+![image alt ](https://github.com/Rajdwip-69/Universal-Digital-Queue-System/blob/400753ab22b21e3e59b29248066684aef00e3e44/pic2.jpeg)
+## Preview of Token Booking.
+![image alt ](https://github.com/Rajdwip-69/Universal-Digital-Queue-System/blob/9cd824b8a7e42a629fb1203d8431defbc99e455c/pic1.jpeg)
 
 
 ## 📌 Future Enhancements
@@ -62,13 +67,6 @@ The **Universal Digital Queue System** is a web-based platform that allows users
 3. Commit changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request.
-
-
-## Preview of Dashboard.
-
-![image alt ](https://github.com/Rajdwip-69/Universal-Digital-Queue-System/blob/400753ab22b21e3e59b29248066684aef00e3e44/pic2.jpeg)
-## Preview of Token Booking.
-![image alt ](https://github.com/Rajdwip-69/Universal-Digital-Queue-System/blob/9cd824b8a7e42a629fb1203d8431defbc99e455c/pic1.jpeg)
 
 
 ## 📜 License
